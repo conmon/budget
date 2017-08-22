@@ -20,7 +20,7 @@ major components are complete.
       feature etc.)
       
 ### Software
-- [ ] Properly documented API
+- [ ] Properly documented and stable API
 - [ ] Default configuration and bootstrap-script-less deployment
 - [ ] Docker / rkt images
 - [ ] Version managed dependencies
